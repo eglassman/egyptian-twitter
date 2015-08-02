@@ -1,1 +1,1 @@
-# egyptian-twitter
+An experiment in open data science
